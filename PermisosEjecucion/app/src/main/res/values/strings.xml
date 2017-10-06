@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permisos Peligrosos en Runtime</string>
+    <string name="confirm">Aceptar</string>
+    <string name="permitido">Permitido</string>
+    <string name="dialog_message">Se debe habilitar el permiso</string>
+
+</resources>

@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Permisos-Peligrosos</string>
-    <string name="dialog_message">El permiso debe estar habilitado.</string>
-    <string name="ok">Aceptar</string>
-    <string name="permc">Permiso concedido</string>
-</resources>
